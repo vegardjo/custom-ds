@@ -1,0 +1,600 @@
+{
+  "color": {
+    "green": {
+      "1": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.green.16}"
+      }
+    },
+    "neutral": {
+      "1": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.neutral.16}"
+      }
+    },
+    "dark-green": {
+      "1": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.dark-green.16}"
+      }
+    },
+    "orange": {
+      "1": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.orange.16}"
+      }
+    },
+    "info": {
+      "1": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.info.16}"
+      }
+    },
+    "success": {
+      "1": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.success.16}"
+      }
+    },
+    "warning": {
+      "1": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.warning.16}"
+      }
+    },
+    "danger": {
+      "1": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.danger.16}"
+      }
+    },
+    "link": {
+      "visited": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.link.visited}"
+      }
+    },
+    "focus": {
+      "inner-color": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.focus.inner}"
+      },
+      "outer-color": {
+        "$type": "color",
+        "$value": "{ngu-designsystem.focus.outer}"
+      }
+    }
+  },
+  "font-family": {
+    "$type": "fontFamilies",
+    "$value": "{ngu-designsystem.font-family}"
+  },
+  "font-weight": {
+    "medium": {
+      "$type": "fontWeights",
+      "$value": "{ngu-designsystem.font-weight.medium}"
+    },
+    "semibold": {
+      "$type": "fontWeights",
+      "$value": "{ngu-designsystem.font-weight.semibold}"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "{ngu-designsystem.font-weight.regular}"
+    }
+  },
+  "border-radius": {
+    "1": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*0.5,{border-radius.scale})"
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base},{border-radius.scale}*2)"
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*2,{border-radius.scale}*5)"
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*3,{border-radius.scale}*7)"
+    },
+    "5": {
+      "$type": "dimension",
+      "$value": "{border-radius.base}"
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "9999"
+    },
+    "base": {
+      "$type": "dimension",
+      "$value": "8"
+    },
+    "scale": {
+      "$type": "dimension",
+      "$value": "4"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
+  "outDir": "./design-tokens",
+  "themes": {
+    "ngu-designsystem": {
+      "colors": {
+        "main": {
+          "green": "#63d5a1"
+        },
+        "support": {
+          "dark-green": "#204142",
+          "orange": "#e7bf0d"
+        },
+        "neutral": "#686666"
+      },
+      "overrides": {
+        "severity": {
+          "info": "#589ac5",
+          "success": "#058260",
+          "warning": "#d8b234",
+          "danger": "#cc3d3d"
+        }
+      },
+      "borderRadius": 8
+    }
+  }
+}
